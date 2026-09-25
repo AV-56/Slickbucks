@@ -76,6 +76,6 @@ You can use the following credentials to test the application:
 *(Note: You can also register a new customer account directly from the UI)*
 
 **Test Admin:**
-- **Email:** `admin@slickbucks.com`
-- **Password:** `admin123`
+- **Email:** `slickbucks@admin.com`
+- **Password:** `admin`
 - **Accessing Admin Panel:** Log in with the admin credentials, then navigate to `/admin` to view incoming orders and manage the menu.
