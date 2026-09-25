@@ -71,6 +71,7 @@ To run this project locally, follow these steps:
 You can use the following credentials to test the application:
 
 **Test Customer:**
+*sign up with any id pass u want , ex:*
 - **Email:** `customer@slickbucks.com`
 - **Password:** `customer123`
 *(Note: You can also register a new customer account directly from the UI)*
